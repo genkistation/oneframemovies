@@ -1,8 +1,8 @@
 # Setup
 title:               One frame movies
-tagline:             'One frame movies.'
+tagline:             'Photography'
 description:         'One frame movies...'
-url:                 https://genkistation.github.io/oneframemovies/
+url:                 https://genkistation.github.io/
 baseurl:             '/oneframemovies'
 paginate:            5
 permalink:           pretty
