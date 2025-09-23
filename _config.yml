@@ -1,16 +1,16 @@
 # Setup
 title:               One frame movies
 tagline:             'Photography'
-description:         'One frame movies...'
+description:         'One frame movies'
 url:                 https://genkistation.github.io/
-baseurl:             '/oneframemovies'
+baseurl:             '/photography'
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
   name:              Genkistation
-  url:               https://genkistation.github.io/website
+  url:               https://genkistation.github.io/photography
   email:             genkistationprod@gmail.com
 
 # Gems
